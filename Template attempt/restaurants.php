@@ -4,13 +4,15 @@
 		<meta charset="UTF-8">
 		<title>Home</title>
 		<link href="default.css" rel="stylesheet">
-		<link href="style.css" rel="stylesheet">
 		<link href="mediaquery.css" rel="stylesheet">
+		<link href="sharedstyle.css" rel="stylesheet">
 	</head>
 	<body>
-		<? php
+		<?php
+			// echo "hello!";
 			include("header.php");
 		?>
+
 		<h1> Restaurants</h1> 
 		
 		<h3> Best Late night food </h3>
@@ -59,11 +61,8 @@
 					<h4>Falafel at Jeruselam Gardens</h4>
 					<p>	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur, non, quos voluptas vel earum unde laboriosam qui optio asperiores nesciunt sed voluptatibus quae harum nisi iure sapiente numquam quo minus.	</p></div>
 		</div> 	
-		<? php
+		<?php
 			include("footer.php");
 		?>
 	</body> 
 </html>
-
-
-
