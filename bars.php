@@ -7,6 +7,7 @@
 		<link href="mediaquery.css" rel="stylesheet">
 		<link href="sharedstyle.css" rel="stylesheet">
 		<link href='http://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="navStyle.css">
 		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
   		<script>
     		google.load('visualization', '1', { 'packages': ['map'] });
