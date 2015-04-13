@@ -74,14 +74,14 @@ h4{
 }
 
 
-
 /*tablet*/
 
 @media only screen and (min-width:720px) and (max-width:985px){
 	.content{
 		float: none;
 		text-align: center;
-		margin:auto;
+		margin: auto;
+		width: 90%;
 	}
 
 	.sidebar{
@@ -98,6 +98,7 @@ h4{
 		float: none;
 		text-align: center;
 		margin: auto;
+		width:90%;
 	}
 
 	.sidebar{
